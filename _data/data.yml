@@ -16,7 +16,7 @@ sidebar:
     phone: +33 6 31 00 89 72
     timezone: Europe/Paris 
     citizenship:
-    website: mateolabs.fr #do not add http://
+    website: mateolabs.net #do not add http://
     linkedin:
     xing: 
     github: MateoLabs
@@ -30,14 +30,14 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Français
-        level: Langue maternelle
+      - idiom: French
+        level: Native
 
-      - idiom: Anglais
-        level: Professionnel
+      - idiom: English
+        level: Professional
 
     interests:
-      - item: Plongée
+      - item: Scuba Diving
         link:
 
       - item: Snowboarding
